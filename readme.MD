@@ -21,7 +21,7 @@ Para executar os testes, rodar o comando:
     npx cypress open
 
 Os testes são todos autoexplicativos e rodam em uma interface interativa e de uso facilitado. 
-Para executar os testes é só selecionar uma das suítes: amazon-cart-tests.spec.js que os testes irão executar um após o outro, em seguida exibindo os resultados.
+Para executar os testes é só selecionar a suíte: amazon-cart-tests.spec.js que os testes irão executar um após o outro, em seguida exibindo os resultados.
 Obs.: Podem ocorrer alguns erros ao carregar os diversos e pesados recursos do site, mas dêem mais uma chance pra um testador iniciante rodando novamente a suíte de testes. 
 
 # 
